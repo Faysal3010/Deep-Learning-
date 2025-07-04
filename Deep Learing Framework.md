@@ -199,7 +199,7 @@ hₜ = activation(Wx·xₜ + Wh·hₜ₋₁ + b)
 
 ---
 
-## 🎁 Bonus Tips
+## In Short
 
 * ✅ Always normalize input
 * ✅ Use ReLU in hidden, Softmax in output
